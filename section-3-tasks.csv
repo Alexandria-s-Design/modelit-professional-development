@@ -1,0 +1,14 @@
+Task,Description,Status,Priority,Owner Type,Est Hours,Dependencies,Notes,AI Agent Recommendation
+Set up Zoom Pro account,Enable webinar hosting,Not Started,High,Human,0.5,,$15/month,Human-required
+Plan Webinar 1: Getting Started,Monthly intro to ModelIt! platform,Not Started,High,Human + AI,6,,"Outline slides demos",Content Empire or Grok
+Plan Webinar 2: NGSS in Action,Bi-monthly standards alignment,Not Started,High,Human + AI,6,,,Content Empire or Grok
+Plan Webinar 3: Play to Platform,Quarterly advanced modeling,Not Started,Medium,Human + AI,6,,,Content Empire or Grok
+Plan Webinar 4: Teacher Spotlight,Quarterly community sessions,Not Started,Medium,Human,4,Pilot teachers,Need teacher presenters,Human-required
+Create webinar slide templates,PowerPoint templates for all webinars,Not Started,High,AI Agent,4,Brand templates,,Bob Ross or Codex
+Develop 90-min hands-on workshop,Conference/school PD session,Not Started,High,Human + AI,8,,,Content Empire
+Create breakout PD content,Science vs health teacher paths,Not Started,Medium,AI Agent,4,Workshop complete,,Content Empire
+Set up webinar registration,Landing pages forms automation,Not Started,High,Automation (n8n),4,,n8n workflows,Workflow Wizard
+Create follow-up email sequences,Post-webinar resources and next steps,Not Started,High,Automation (n8n),3,,SendGrid + n8n,Workflow Wizard
+Develop PD certificates,Professional development credit certificates,Not Started,Medium,AI Agent,2,,PDF templates,Codex or Getting to Google
+Set up educator community forum,Slack/Facebook group for teachers,Not Started,Medium,Human,3,,Community platform,Human-required
+Create PD video snippets,Short how-to videos for TPT,Not Started,Low,AI Agent,6,Webinars recorded,Video editing automation,Content Empire
